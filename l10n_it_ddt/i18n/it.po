@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: l10n-italy (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-29 10:06+0000\n"
-"PO-Revision-Date: 2024-06-13 13:39+0000\n"
+"PO-Revision-Date: 2025-07-11 22:25+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: Italian (http://www.transifex.com/oca/OCA-l10n-italy-8-0/"
 "language/it/)\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #. module: l10n_it_ddt
 #: view:add.pickings.to.ddt:l10n_it_ddt.view_add_pickings_to_ddt
@@ -90,7 +90,7 @@ msgstr "Resa merce"
 #. module: l10n_it_ddt
 #: model:stock.picking.carriage_condition,name:l10n_it_ddt.carriage_condition_PA
 msgid "Carriage Forward"
-msgstr "Porto Assegnato"
+msgstr "Porto assegnato"
 
 #. module: l10n_it_ddt
 #: model:stock.picking.carriage_condition,name:l10n_it_ddt.carriage_condition_PF

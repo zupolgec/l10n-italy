@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: OpenERP Server 6.0.3\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
 "POT-Creation-Date: 2011-11-30 16:27+0000\n"
-"PO-Revision-Date: 2024-07-18 08:21+0000\n"
+"PO-Revision-Date: 2025-08-06 11:25+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #. module: account_invoice_tax_by_column
 #: field:account.tax.code,ref_base_tax_ids:0
@@ -117,7 +117,7 @@ msgstr "Imposte fattura - Calcolo per colonna"
 #. module: account_invoice_tax_by_column
 #: field:account.tax.code,tax_ids:0
 msgid "Taxes"
-msgstr "Tasse"
+msgstr "Imposte"
 
 #. module: account_invoice_tax_by_column
 #: code:addons/account_invoice_tax_by_column/account.py:91

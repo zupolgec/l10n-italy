@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: l10n-italy (10.0)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-12 02:39+0000\n"
-"PO-Revision-Date: 2025-09-09 10:16+0000\n"
+"PO-Revision-Date: 2025-09-09 12:42+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: Italian (http://www.transifex.com/oca/OCA-l10n-italy-10-0/"
 "language/it/)\n"
@@ -222,7 +222,7 @@ msgstr "Note"
 #: code:addons/l10n_it_fiscalcode/wizard/compute_fc.py:144
 #, python-format
 msgid "One or more fields are missing"
-msgstr "Uno o più campi non sono valorizzati"
+msgstr "Uno o più campi mancanti"
 
 #. module: l10n_it_fiscalcode
 #: model:ir.model,name:l10n_it_fiscalcode.model_res_partner

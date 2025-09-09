@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-08 09:34+0000\n"
-"PO-Revision-Date: 2024-10-03 10:06+0000\n"
+"PO-Revision-Date: 2025-09-09 11:43+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #. module: l10n_it_fatturapa
 #: model:account.tax,name:l10n_it_fatturapa.tax_22_acq
@@ -43,7 +43,7 @@ msgstr ""
 #. module: l10n_it_fatturapa
 #: field:faturapa.activity.progress,fatturapa_activity_progress:0
 msgid "Activity Progress"
-msgstr "Progresso Attività"
+msgstr "Stato avanzamento lavori"
 
 #. module: l10n_it_fatturapa
 #: field:res.partner,codice_destinatario:0
@@ -58,7 +58,7 @@ msgstr ""
 #. module: l10n_it_fatturapa
 #: field:account.invoice.line,admin_ref:0
 msgid "Admin. ref."
-msgstr "Rif. amm."
+msgstr "Rif. ammin."
 
 #. module: l10n_it_fatturapa
 #: selection:fatturapa.related_document_type,type:0
@@ -602,12 +602,12 @@ msgstr "Esigibilità immediata"
 #. module: l10n_it_fatturapa
 #: field:faturapa.summary.data,incidental_charges:0
 msgid "Incidental Charges"
-msgstr "Spese Accessorie"
+msgstr "Spese accessorie"
 
 #. module: l10n_it_fatturapa
 #: field:account.invoice,ftpa_incoterms:0
 msgid "Incoterms"
-msgstr "Condizioni di consegna"
+msgstr "Incoterm"
 
 #. module: l10n_it_fatturapa
 #: field:fatturapa.attachments,index_content:0
@@ -724,7 +724,7 @@ msgstr "Ultimo aggiornamento il"
 #. module: l10n_it_fatturapa
 #: field:faturapa.summary.data,law_reference:0
 msgid "Law reference"
-msgstr "Riferimento Normativo"
+msgstr "Riferimento normativo"
 
 #. module: l10n_it_fatturapa
 #: selection:withholding.data.line,name:0
@@ -831,7 +831,7 @@ msgstr "Ordine"
 #. module: l10n_it_fatturapa
 #: field:fatturapa.related_document_type,code:0
 msgid "Order Agreement Code"
-msgstr "Codice commessa"
+msgstr "Codice commessa convenzione"
 
 #. module: l10n_it_fatturapa
 #: field:account.invoice,efatt_stabile_organizzazione_indirizzo:0
@@ -977,7 +977,7 @@ msgstr "Collegamento di anteprima"
 #. module: l10n_it_fatturapa
 #: field:res.partner,register:0
 msgid "Professional Register"
-msgstr "Albo Professionale"
+msgstr "Albo professionale"
 
 #. module: l10n_it_fatturapa
 #: field:account.invoice,protocol_number:0
@@ -988,7 +988,7 @@ msgstr "Numero protocollo"
 #: field:account.config.settings,fatturapa_pub_administration_ref:0
 #: field:res.company,fatturapa_pub_administration_ref:0
 msgid "Public Administration Reference Code"
-msgstr "Codice riferimento pubblica amministrazione"
+msgstr "Codice di riferimento pubblica amministrazione"
 
 #. module: l10n_it_fatturapa
 #: field:res.company,fatturapa_rea_office:0
@@ -1080,12 +1080,12 @@ msgstr "Regime Fiscale"
 #. module: l10n_it_fatturapa
 #: field:res.partner,register_province:0
 msgid "Register Province"
-msgstr "Provincia Albo"
+msgstr "Provincia albo"
 
 #. module: l10n_it_fatturapa
 #: field:res.partner,register_regdate:0
 msgid "Register Registration Date"
-msgstr "Data Iscrizione Albo"
+msgstr "Data iscrizione albo"
 
 #. module: l10n_it_fatturapa
 #: field:res.partner,register_code:0
@@ -1102,7 +1102,7 @@ msgstr "DDT correlati"
 #: field:account.invoice,related_documents:0
 #: view:account.invoice.line:l10n_it_fatturapa.view_invoice_line_form_fatturapa
 msgid "Related Documents"
-msgstr "Documenti Correlati"
+msgstr "Documenti collegati"
 
 #. module: l10n_it_fatturapa
 #: field:account.invoice.line,related_documents:0
@@ -1122,14 +1122,14 @@ msgstr "Tipo documenti correlati"
 #: field:welfare.fund.data.line,invoice_id:0
 #: field:withholding.data.line,invoice_id:0
 msgid "Related Invoice"
-msgstr "Fattura correlata"
+msgstr "Fattura collegata"
 
 #. module: l10n_it_fatturapa
 #: field:fatturapa.mngt_data_type,invoice_line_id:0
 #: field:fatturapa.related_ddt,invoice_line_id:0
 #: field:fatturapa.related_document_type,invoice_line_id:0
 msgid "Related Invoice Line"
-msgstr "Riga fattura correlata"
+msgstr "Riga fattura collegata"
 
 #. module: l10n_it_fatturapa
 #: field:discount.rise.price,invoice_line_id:0
@@ -1139,12 +1139,12 @@ msgstr ""
 #. module: l10n_it_fatturapa
 #: field:account.invoice,related_invoice_code:0
 msgid "Related invoice code"
-msgstr "Numero Fattura Principale"
+msgstr "Codice fattura collegata"
 
 #. module: l10n_it_fatturapa
 #: field:account.invoice,related_invoice_date:0
 msgid "Related invoice date"
-msgstr "Data Fattura Principale"
+msgstr "Data fattura collegata"
 
 #. module: l10n_it_fatturapa
 #: field:account.invoice,related_mngt_data_ids:0
@@ -1255,7 +1255,7 @@ msgstr "Rappresentante fiscale"
 #. module: l10n_it_fatturapa
 #: field:faturapa.summary.data,tax_rate:0
 msgid "Tax Rate"
-msgstr "Aliquota"
+msgstr "Aliquota fiscale"
 
 #. module: l10n_it_fatturapa
 #: help:res.partner,codice_destinatario:0
@@ -1548,7 +1548,7 @@ msgstr ""
 #. module: l10n_it_fatturapa
 #: selection:account.invoice,sender:0
 msgid "third person"
-msgstr "Terzo"
+msgstr "Soggetto terzo"
 
 #~ msgid "Arrotondamento"
 #~ msgstr "Arrotondamento"

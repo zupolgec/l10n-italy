@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-20 11:38+0000\n"
-"PO-Revision-Date: 2023-12-29 17:34+0000\n"
+"PO-Revision-Date: 2025-09-09 11:43+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #. module: l10n_it_invoices_data_communication
 #: code:addons/l10n_it_invoices_data_communication/models/communication.py:935
@@ -1052,7 +1052,7 @@ msgstr "Dividi comunicazione"
 #: selection:comunicazione.dati.iva.fatture.emesse.iva,EsigibilitaIVA:0
 #: selection:comunicazione.dati.iva.fatture.ricevute.iva,EsigibilitaIVA:0
 msgid "Split payment"
-msgstr "Split payment"
+msgstr "Scissione pagamenti"
 
 #. module: l10n_it_invoices_data_communication
 #: code:addons/l10n_it_invoices_data_communication/models/communication.py:643
@@ -1146,7 +1146,7 @@ msgstr "Corpo fatture fornitori"
 #: field:comunicazione.dati.iva.fatture.emesse.iva,Aliquota:0
 #: field:comunicazione.dati.iva.fatture.ricevute.iva,Aliquota:0
 msgid "Tax rate"
-msgstr "Aliquota"
+msgstr "Aliquota fiscale"
 
 #. module: l10n_it_invoices_data_communication
 #: view:comunicazione.dati.iva:l10n_it_invoices_data_communication.view_comunicazione_dati_iva_form

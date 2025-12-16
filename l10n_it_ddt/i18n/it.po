@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: l10n-italy (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-29 10:06+0000\n"
-"PO-Revision-Date: 2025-07-11 22:25+0000\n"
+"PO-Revision-Date: 2025-12-16 12:42+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: Italian (http://www.transifex.com/oca/OCA-l10n-italy-8-0/"
 "language/it/)\n"
@@ -525,7 +525,7 @@ msgstr "Picking %s già nel ddt"
 #. module: l10n_it_ddt
 #: model:ir.model,name:l10n_it_ddt.model_stock_picking
 msgid "Picking List"
-msgstr "Lista Picking"
+msgstr "Lista prelievo"
 
 #. module: l10n_it_ddt
 #: field:ddt.from.pickings,picking_ids:0

@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: l10n-italy (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-20 06:13+0000\n"
-"PO-Revision-Date: 2023-12-24 18:42+0000\n"
+"PO-Revision-Date: 2026-01-11 16:21+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: Italian (http://www.transifex.com/oca/OCA-l10n-italy-8-0/"
 "language/it/)\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #. module: l10n_it_vat_registries
 #: model:ir.actions.act_window,help:l10n_it_vat_registries.action_account_tax_registry_form
@@ -86,7 +86,7 @@ msgstr "Creato il"
 #. module: l10n_it_vat_registries
 #: selection:account.tax.registry,type:0 selection:wizard.registro.iva,type:0
 msgid "Customer Invoices"
-msgstr "Fatture clienti"
+msgstr "Fatture cliente"
 
 #. module: l10n_it_vat_registries
 #: view:website:l10n_it_vat_registries.report_registro_iva

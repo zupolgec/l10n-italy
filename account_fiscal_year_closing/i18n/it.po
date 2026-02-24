@@ -7,14 +7,15 @@ msgstr ""
 "Project-Id-Version: OpenERP Server 6.0.3\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
 "POT-Creation-Date: 2011-10-09 10:49+0000\n"
-"PO-Revision-Date: 2011-10-09 14:32+0100\n"
-"Last-Translator: Lorenzo Battistini <lorenzo.battistini@agilebg.com>\n"
+"PO-Revision-Date: 2026-02-24 14:09+0000\n"
+"Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: \n"
-"Language: \n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. module: account_fiscal_year_closing
 #: code:addons/account_fiscal_year_closing/wizard/wizard_run.py:316
@@ -702,7 +703,7 @@ msgstr "Conto da chiudere"
 #: field:account_fiscal_year_closing.fyc,nlp_journal_id:0
 #: field:account_fiscal_year_closing.fyc,o_journal_id:0
 msgid "Journal"
-msgstr "Sezionale"
+msgstr "Registro"
 
 #. module: account_fiscal_year_closing
 #: view:account_fiscal_year_closing.fyc:0

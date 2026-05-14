@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: l10n-italy (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-29 09:52+0000\n"
-"PO-Revision-Date: 2025-09-09 11:43+0000\n"
+"PO-Revision-Date: 2026-05-14 14:47+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: Italian (http://www.transifex.com/oca/OCA-l10n-italy-8-0/"
 "language/it/)\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. module: l10n_it_fiscalcode
 #: field:res.city.it.code,cadastre_code:0
@@ -127,7 +127,7 @@ msgstr ""
 #. module: l10n_it_fiscalcode
 #: field:res.partner,individual:0
 msgid "Individual"
-msgstr "Persona Fisica"
+msgstr "Persona fisica"
 
 #. module: l10n_it_fiscalcode
 #: view:wizard.compute.fc:l10n_it_fiscalcode.wizard_compute_fc_form

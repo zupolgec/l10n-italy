@@ -6,15 +6,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-02-28 02:06+0000\n"
-"Last-Translator: Nicola Clemente <nickdellaclemodoo@gmail.com>\n"
+"PO-Revision-Date: 2026-06-09 10:50+0000\n"
+"Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. module: l10n_it_fatturapa_pec
 #: selection:account.invoice,fatturapa_state:0
@@ -45,7 +45,7 @@ msgstr "Contatti da notificare"
 #. module: l10n_it_fatturapa_pec
 #: model:ir.model.fields,help:l10n_it_fatturapa_pec.field_fetchmail_server_e_inv_notify_partner_ids
 msgid "Contacts to notify when PEC message can't be processed"
-msgstr "Contatti da notificare se il messaggio PEC non può essere elaborato"
+msgstr "Contatti da notificare quando non è possibile elaborare i messaggi PEC"
 
 #. module: l10n_it_fatturapa_pec
 #: model:ir.model.fields,field_description:l10n_it_fatturapa_pec.field_wizard_fatturapa_send_pec_create_uid
